@@ -1,6 +1,6 @@
 {
-    "name": "twitters",
-    "short_name": "twitters",
+    "name": "twitter_clone",
+    "short_name": "twitter_clone",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
